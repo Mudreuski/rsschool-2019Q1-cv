@@ -31,3 +31,17 @@ Some examples of my self-education results you can see here - [GitHub](https://g
 * [HTML5/CSS3 HTML Academy and Codecademy](https://htmlacademy.ru/profile/id187775)
 * [Javascript Javascript.ru](https://www.codecademy.com/users/Mudreuski/achievements)
 * [GitHub](https://github.com/Mudreuski)
+
+### EDUCATION 
+* *2017 - 2018*     
+    * Educational institution: BelSUT, Gomel, Belarus
+    * Faculty: Graduate education and career guidance
+    * Department: Intellectual technologies in the management of technical systems
+    * Education Information: Master's
+    * Form of study: Correspondence
+* *2012 - 2017* 
+    * Educational institution: BelSUT, Gomel, Belarus
+    * Faculty: Electrotechnical
+    * Department: Microprocessor information control systems
+    * Education Information: Higher education
+    * Form of study: Full time
