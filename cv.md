@@ -45,3 +45,6 @@ Some examples of my self-education results you can see here - [GitHub](https://g
     * Department: Microprocessor information control systems
     * Education Information: Higher education
     * Form of study: Full time
+
+### ENGLISH LEVEL
+A2, but there is no limit to perfection.
