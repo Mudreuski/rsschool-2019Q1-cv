@@ -21,3 +21,6 @@
 * [HTML5/CSS3 HTML Academy and Codecademy](https://htmlacademy.ru/profile/id187775)
 * [Javascript Javascript.ru](https://www.codecademy.com/users/Mudreuski/achievements)
 * [GitHub](https://github.com/Mudreuski)
+
+### CODE EXAMPLES
+Some examples of my self-education results you can see here - [GitHub](https://github.com/Mudreuski)
