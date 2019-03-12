@@ -75,14 +75,14 @@ article:nth-child(2) h2 {
     margin-left: 20px;
 }
 
-/* article:nth-child(5) {
+article:nth-child(5) {
     margin: 10px auto 0;  
 }
 
 article:last-child {
     padding-bottom: 20px;
 }
-
+/*
 footer {
     margin: -20px auto;
 }
