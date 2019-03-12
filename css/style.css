@@ -44,21 +44,21 @@ h2 {
     padding: 20px 0 0 20px;   
 }
 
-.contacts ul img {
+.article_img ul img {
     width: 25px;
     height: 25px;
 }
 
-.contacts li {
+.article_img li {
     list-style-type: none;
 }
 
-.contacts ul span {
+.article_img ul span {
     margin-left: 10px;
     vertical-align: 40%;
 }
 
-.contacts a { 
+.article_img a { 
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
@@ -67,11 +67,11 @@ ul li+li {
     margin-top: 15px;
 }
 
-.summary h2 {
+article:nth-child(2) h2 {
     padding-top: 20px;
 } 
 
-article+article ul {
+.article_text ul {
     margin-left: 20px;
 }
 
