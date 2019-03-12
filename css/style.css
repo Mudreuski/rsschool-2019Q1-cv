@@ -44,32 +44,31 @@ h2 {
     padding: 20px 0 0 20px;   
 }
 
-article div img {
+.contacts ul img {
     width: 25px;
     height: 25px;
-    margin-left: 40px;
 }
 
-article div span {
+.contacts li {
+    list-style-type: none;
+}
+
+.contacts ul span {
     margin-left: 10px;
     vertical-align: 40%;
 }
 
-article div+div {
-    margin-top: 5px;
-}
-
-article div span a { 
+.contacts a { 
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
 
-article:nth-child(2) {
-    margin: -22px auto 0;  
-}
-
 ul li+li {
     margin-top: 15px;
+}
+
+/* article:nth-child(2) {
+    margin: -22px auto 0;  
 }
 
 article:nth-child(2) h2 {
@@ -94,4 +93,4 @@ footer {
 
 footer h2 {
     padding: 20px 0;
-}
+} */
