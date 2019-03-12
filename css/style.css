@@ -67,19 +67,15 @@ ul li+li {
     margin-top: 15px;
 }
 
-/* article:nth-child(2) {
-    margin: -22px auto 0;  
-}
-
-article:nth-child(2) h2 {
-    padding-top: 30px;
+.summary h2 {
+    padding-top: 20px;
 } 
 
-ul {
+article+article ul {
     margin-left: 20px;
 }
 
-article:nth-child(5) {
+/* article:nth-child(5) {
     margin: 10px auto 0;  
 }
 
