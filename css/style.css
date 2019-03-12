@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 header, 
 footer,
 section {
@@ -32,7 +37,7 @@ footer h2 {
 }
 
 h1 {
-    padding: 30px 0px 50px;
+    padding: 20px 0px 50px;
 }
 
 section {
@@ -44,16 +49,20 @@ h2 {
     padding: 20px 0 0 20px;   
 }
 
-.article_img ul img {
+.article_img img {
     width: 25px;
     height: 25px;
+}
+
+.article_img ul {
+    margin-left: 50px;
 }
 
 .article_img li {
     list-style-type: none;
 }
 
-.article_img ul span {
+.article_img span {
     margin-left: 10px;
     vertical-align: 40%;
 }
@@ -63,30 +72,30 @@ h2 {
     color: rgb(0, 0, 0);
 }
 
-ul li+li {
+ul li {
     margin-top: 15px;
 }
 
-article:nth-child(2) h2 {
+article:nth-child(1) {
     padding-top: 20px;
+}
+
+article+article {
+    margin-top: 20px;
 } 
 
 .article_text ul {
+    margin-left: 50px;
+}
+
+.article_text li {
     margin-left: 20px;
 }
 
-article:nth-child(5) {
-    margin: 10px auto 0;  
-}
-
 article:last-child {
-    padding-bottom: 20px;
-}
-/*
-footer {
-    margin: -20px auto;
+    padding-bottom: 30px;
 }
 
 footer h2 {
-    padding: 20px 0;
-} */
+    padding: 15px 0;
+}
